@@ -13,7 +13,7 @@ Softinn offers a hotel booking engine with the following features:
 1. Add the calendar widget to your WordPress site.
 1. Customizable theme color
 
-## How to Install
+## How to Install Softinn WordPress Plugin
 
 Download and install the plugin from WordPress Plugin directory, here's the [link](https://wordpress.org/plugins/softinn-booking-engine/).
 
